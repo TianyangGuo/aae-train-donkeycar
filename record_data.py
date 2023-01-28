@@ -30,6 +30,7 @@ STEP_THROTTLE = 0.8
 STEP_TURN = 0.8
 
 frame_skip = 2
+nonsense = 999999999
 total_frames = args.max_steps
 render = True
 output_folder = args.folder
